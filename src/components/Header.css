@@ -1,5 +1,5 @@
 .App-Header{
-  background-color: orange;
+  background-color: #3c6b75;
   display: flex;
   justify-content: space-between;
   padding: 10px;
@@ -7,6 +7,6 @@
 
 .App-Header li {
     display: inline-block;
-    font-size: 20;
+    font-size: 20px;
     padding: 5px;
 }
